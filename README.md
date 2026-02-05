@@ -1,3 +1,24 @@
+# BiAi - 一个B站视频总结助手。
+
+## 主要改动
+1. 在播放页视频标题处添加了视频总结按钮。
+2. 新增功能：根据字幕总结视频内容。
+3. 调整了设置界面。
+
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/505388e6-1267-48e6-9afa-2210655129b5" alt="1" width="500"></td>
+    <td><img src="https://github.com/user-attachments/assets/90f01921-29c0-4668-bd23-5e7ab853919c" alt="2" width="500"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/39687611-4f0e-485c-8cdf-3b46da75b1f9" alt="3" width="500"></td>
+    <td><img src="https://github.com/user-attachments/assets/79886a51-ea09-48c3-86b7-7eee478776b1" alt="4" width="500"></td>
+  </tr>
+</table>
+
+# 以下为原插件介绍
+
 # BiliScope
 
 [![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/ekmbchepcdggpcbdpjpijphjiiiimfga)](https://chromewebstore.google.com/detail/biliscope-bilibili%E6%8F%92%E4%BB%B6%EF%BC%8C%E7%9F%A5%E9%81%93ta/ekmbchepcdggpcbdpjpijphjiiiimfga?hl=zh-CN)
